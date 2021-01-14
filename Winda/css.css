@@ -1,0 +1,88 @@
+body {
+	background-color:#ccf5f5;
+}
+
+#gameholder {
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#title {
+	width: 600px;
+	height:150px;
+	background-image:url("penguin_title.png.zip");
+}
+
+
+
+.penguin1 {
+ 	width: 200px;
+	height:200px;
+	float: left;
+	background-image:url("");
+}
+
+.penguin:hover {
+	background-image:url("");
+	cursor: pointer;
+}
+
+.penguin1:active {
+	background-image:url("");
+}
+.penguin1 {
+ 	width: 200px;
+	height:200px;
+	float: left;
+	background-image:url("");
+}
+
+.penguin2 {
+ 	width: 200px;
+	height:200px;
+	float: left;
+	background-image:url("");
+}
+
+.penguin3 {
+ 	width: 200px;
+	height:200px;
+	float: left;
+	background-image:url("");
+}
+
+.penguin4 {
+ 	width: 200px;
+	height:200px;
+	float: left;
+	background-image:url("");
+}
+
+.penguin5 {
+ 	width: 200px;
+	height:200px;
+	float: left;
+	background-image:url("");
+}
+
+.penguin6 {
+ 	width: 200px;
+	height:200px;
+	float: left;
+	background-image:url("");
+}
+
+.penguin7 {
+ 	width: 200px;
+	height:200px;
+	float: left;
+	background-image:url("");
+}
+
+.penguin8 {
+ 	width: 200px;
+	height:200px;
+	float: left;
+	background-image:url("");
+}
